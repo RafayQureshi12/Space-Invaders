@@ -150,7 +150,7 @@ To setup this project locally on your computer follow the steps below.
 
 ## Contribution
 The following are the team members for the project:
-   - [Muhammad Humam](www.github.com/humamchoudhary)
+   - [Muhammad Humam](https://github.com/humamchoudhary)
    - [Talha Khalid](https://github.com/MuhammadTalha28)
    - [Abrar Ali](www.github.com/abrarbasra)
    - [Rehan Yousaf](www.github.com)
