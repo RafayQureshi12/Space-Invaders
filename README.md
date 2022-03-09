@@ -156,15 +156,6 @@ The following are the team members for the project:
    - [Rehan Yousaf](www.github.com)
 
 
-<!-- CONTACT -->
-## Contact
-
-Muhammad Humam Choudhary - [@humam_cho](https://twitter.com/humam_cho)  - humamchoudhary@gmail.com
-
-Project Link: [https://github.com/humamchoudhary/Space-invaders](https://github.com/humamchoudhary/Space-invaders/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
